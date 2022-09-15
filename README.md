@@ -1,2 +1,2 @@
 # js-codewars
-[my Codewars profile](https://www.codewars.com/users/Gunduz)
+[my Codewars profile](https://www.codewars.com/users/kralDragon)
